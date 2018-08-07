@@ -1,0 +1,39 @@
+div{
+	display: inline-block;
+	text-align: center;
+	font-family: 'Tajawal', sans-serif;
+
+	font-size: 30px;
+
+	border: 1px solid;
+
+	
+	border-color: grey;
+}
+
+  
+
+
+button{
+	padding: 12px 40px;
+	color: white;
+	font-size: 20px;
+}
+	
+   
+
+
+button:hover{
+	cursor: pointer;
+}
+#grad1{
+	background: linear-gradient(to right, rgb(29, 185, 231),rgb(81, 117, 194),rgb(17, 79, 211));
+}
+
+
+	
+    
+
+
+
+
